@@ -53,6 +53,11 @@ weight = 3
 #weight = 4
 
 [[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/davidpor"
+
+[[params.social]]
 name = "Github"
 icon = "github"
 url = "https://github.com/bobbypage"
@@ -61,12 +66,6 @@ url = "https://github.com/bobbypage"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/bobbypage"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://www.linkedin.com/in/davidpor"
-
 
 [taxonomies]
    tag = "tags"
