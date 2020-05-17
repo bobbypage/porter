@@ -13,6 +13,8 @@ pygmentscodefencesguesssyntax = true
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "ink-demo"
 
+title = "porter.me"
+
 [params]
 	subtitle = "Hey! I'm David and this is my corner of the internet."
 
@@ -53,7 +55,7 @@ weight = 3
 [[params.social]]
 name = "Github"
 icon = "github"
-url = "https://github.com/knadh/hugo-ink"
+url = "https://github.com/bobbypage"
 
 [[params.social]]
 name = "Twitter"
