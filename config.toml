@@ -1,4 +1,4 @@
-baseURL = "https://davidporter.netlify.app/"
+baseURL = "https://porter.me/"
 languageCode = "en-us"
 theme = "hugo-ink"
 
